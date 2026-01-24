@@ -22,3 +22,5 @@
 2026.01.24 16:12:00 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
 Jan 24, 2026 4:12:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2026.01.24 16:15:03 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
+2026.01.24 16:15:25 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
