@@ -1,0 +1,24 @@
+2026.01.24 15:57:44 INFO  Started: Metals version 1.6.5 in folders '/Users/Lenovo/Desktop/event-driven-job-orchestrator' for client Cursor 1.105.1.
+2026.01.24 15:57:44 INFO  Memory monitor started
+2026.01.24 15:57:44 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.01.24 15:57:44 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
+2026.01.24 15:58:49 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
+2026.01.24 15:58:50 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
+2026.01.24 15:58:49 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
+2026.01.24 15:58:50 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
+2026.01.24 15:58:52 WARN  no build target for: /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java
+2026.01.24 15:58:52 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
+2026.01.24 15:59:33 WARN  no build target for: /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java
+2026.01.24 15:59:33 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
+2026.01.24 16:03:54 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
+2026.01.24 16:03:54 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
+2026.01.24 16:03:56 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
+2026.01.24 16:03:58 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
+2026.01.24 16:03:58 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
+2026.01.24 16:03:58 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
+2026.01.24 16:04:00 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
+2026.01.24 16:04:02 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
+2026.01.24 16:04:16 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
+2026.01.24 16:12:00 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
+Jan 24, 2026 4:12:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
