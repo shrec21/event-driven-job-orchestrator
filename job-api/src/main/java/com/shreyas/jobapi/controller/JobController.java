@@ -6,6 +6,8 @@ import com.shreyas.jobapi.dto.CreateJobRequest;
 import com.shreyas.jobapi.dto.JobDto;
 import jakarta.validation.Valid;
 import org.springframework.web.bind.annotation.*;
+import com.shreyas.jobapi.dto.JobCreatedEvent;
+import com.shreyas.jobapi.kafka.JobEventPublisher;
 
 import java.util.List;
 
@@ -14,10 +16,12 @@ import java.util.List;
 public class JobController {
 
   private final JobRepo repo;
+  private final JobEventPublisher publisher;
 
-  public JobController(JobRepo repo) {
+    public JobController(JobRepo repo, JobEventPublisher publisher) {
     this.repo = repo;
-  }
+    this.publisher = publisher;
+    }
 
   @PostMapping("/demo")
   public JobDto createDemoJob() {
@@ -28,13 +32,19 @@ public class JobController {
   }
 
   @PostMapping
-  public JobDto createJob(@RequestBody @Valid CreateJobRequest req) {
+    public JobDto createJob(@RequestBody @Valid CreateJobRequest req) {
     JobEntity job = new JobEntity();
     job.type = req.type();
     job.status = req.status();
-    return toDto(repo.save(job));
-  }
 
+    JobEntity saved = repo.save(job);
+
+    publisher.publishJobCreated(
+        new JobCreatedEvent(saved.id, saved.type, saved.status, saved.createdAt)
+    );
+
+    return toDto(saved);
+    }
   @GetMapping
   public List<JobDto> listJobs() {
     return repo.findAll().stream().map(this::toDto).toList();
