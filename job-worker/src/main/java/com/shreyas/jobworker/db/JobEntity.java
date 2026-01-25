@@ -1,4 +1,4 @@
-package com.shreyas.jobapi.db;
+package com.shreyas.jobworker.db;
 
 import jakarta.persistence.*;
 import java.time.Instant;
@@ -9,7 +9,6 @@ import java.util.UUID;
 public class JobEntity {
 
   @Id
-  @GeneratedValue
   public UUID id;
 
   public String type;
@@ -21,5 +20,5 @@ public class JobEntity {
   public String lastError;
 
   @Column(name = "created_at")
-  public Instant createdAt = Instant.now();
+  public Instant createdAt;
 }
