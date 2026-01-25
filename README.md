@@ -158,6 +158,8 @@ Each transition is persisted to the database to survive restarts and crashes.
 ### Start infrastructure
 ```bash
 docker compose up -d
+```
+
 Run services
 # Job API
 cd job-api
@@ -167,7 +169,7 @@ cd job-api
 # Job Worker (separate terminal)
 cd job-worker
 ./mvnw spring-boot:run
-```
+
 
 📬 Example API Usage
 
