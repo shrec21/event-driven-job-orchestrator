@@ -634,3 +634,170 @@ WARNING: Unmatched cancel notification for request id 406
 2026.01.24 20:25:30 WARN  no build target for: /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-worker/src/main/java/com/shreyas/jobworker/kafka/JobCreatedListener.java
 2026.01.24 20:25:30 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-worker/src/main/java/com/shreyas/jobworker/kafka/JobCreatedListener.java. Using fallback presentation compiler.
 2026.01.24 20:25:32 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-worker/src/main/java/com/shreyas/jobworker/kafka/JobCreatedListener.java. Using fallback presentation compiler.
+2026.01.24 20:43:40 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-worker/src/main/java/com/shreyas/jobworker/kafka/JobCreatedListener.java. Using fallback presentation compiler.
+2026.01.24 20:44:01 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-worker/src/main/java/com/shreyas/jobworker/kafka/JobCreatedListener.java. Using fallback presentation compiler.
+2026.01.24 20:44:35 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-worker/src/main/java/com/shreyas/jobworker/kafka/JobCreatedListener.java. Using fallback presentation compiler.
+2026.01.24 20:44:53 WARN  no build target for: /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxEventEntity.java
+2026.01.24 20:44:53 WARN  Running javac-semanticdb failed for file:///Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxEventEntity.java. Output:
+
+2026.01.24 20:44:53 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxEventEntity.java. Using fallback presentation compiler.
+2026.01.24 20:44:53 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxEventEntity.java. Using fallback presentation compiler.
+2026.01.24 20:45:01 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxEventEntity.java. Using fallback presentation compiler.
+2026.01.24 20:45:01 WARN  Running javac-semanticdb failed for file:///Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxEventEntity.java. Output:
+
+2026.01.24 20:45:01 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxEventEntity.java. Using fallback presentation compiler.
+2026.01.24 20:45:02 WARN  no build target for: /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxEventEntity.java
+2026.01.24 20:45:02 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxEventEntity.java. Using fallback presentation compiler.
+2026.01.24 20:45:18 WARN  no build target for: /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java
+2026.01.24 20:45:18 WARN  Running javac-semanticdb failed for file:///Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Output:
+
+2026.01.24 20:45:18 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 20:45:18 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 20:45:22 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 20:45:23 WARN  Running javac-semanticdb failed for file:///Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Output:
+
+2026.01.24 20:45:23 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 20:45:23 WARN  no build target for: /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java
+2026.01.24 20:45:23 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 20:45:47 WARN  no build target for: /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxService.java
+2026.01.24 20:45:47 WARN  Running javac-semanticdb failed for file:///Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxService.java. Output:
+
+2026.01.24 20:45:47 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxService.java. Using fallback presentation compiler.
+2026.01.24 20:45:47 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxService.java. Using fallback presentation compiler.
+2026.01.24 20:45:55 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxService.java. Using fallback presentation compiler.
+2026.01.24 20:45:55 WARN  Running javac-semanticdb failed for file:///Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxService.java. Output:
+
+2026.01.24 20:45:55 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxService.java. Using fallback presentation compiler.
+2026.01.24 20:45:56 WARN  no build target for: /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxService.java
+2026.01.24 20:45:55 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxService.java. Using fallback presentation compiler.
+2026.01.24 20:46:39 WARN  no build target for: /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java
+2026.01.24 20:46:39 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:47:19 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:47:19 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:47:27 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:47:37 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:47:37 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:47:41 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:47:41 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:47:41 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:47:44 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:47:45 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:47:49 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:48:28 WARN  no build target for: /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxPublisher.java
+2026.01.24 20:48:28 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxPublisher.java. Using fallback presentation compiler.
+2026.01.24 20:48:28 WARN  Running javac-semanticdb failed for file:///Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxPublisher.java. Output:
+
+2026.01.24 20:48:28 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxPublisher.java. Using fallback presentation compiler.
+2026.01.24 20:48:34 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxPublisher.java. Using fallback presentation compiler.
+2026.01.24 20:48:35 WARN  Running javac-semanticdb failed for file:///Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxPublisher.java. Output:
+
+2026.01.24 20:48:35 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxPublisher.java. Using fallback presentation compiler.
+2026.01.24 20:48:36 WARN  no build target for: /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxPublisher.java
+2026.01.24 20:48:36 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxPublisher.java. Using fallback presentation compiler.
+2026.01.24 20:48:44 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxPublisher.java. Using fallback presentation compiler.
+2026.01.24 20:48:44 WARN  no build target for: /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java
+2026.01.24 20:48:44 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
+2026.01.24 20:49:01 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
+2026.01.24 20:49:01 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
+2026.01.24 20:49:01 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
+2026.01.24 20:49:01 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
+2026.01.24 20:49:07 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
+2026.01.24 20:49:11 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
+2026.01.24 20:49:13 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
+2026.01.24 20:49:13 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
+2026.01.24 20:49:14 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
+2026.01.24 20:49:21 WARN  no build target for: /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java
+2026.01.24 20:49:21 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/JobApiApplication.java. Using fallback presentation compiler.
+2026.01.24 20:52:17 WARN  no build target for: /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java
+2026.01.24 20:52:17 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:52:19 WARN  no build target for: /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java
+2026.01.24 20:52:19 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:52:20 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:54:41 WARN  no build target for: /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxService.java
+2026.01.24 20:54:41 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxService.java. Using fallback presentation compiler.
+2026.01.24 20:54:42 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxService.java. Using fallback presentation compiler.
+2026.01.24 20:54:59 WARN  no build target for: /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java
+2026.01.24 20:54:59 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:55:19 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:55:19 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:55:20 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:55:21 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:55:28 WARN  no build target for: /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java
+2026.01.24 20:55:28 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:55:45 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:55:45 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:55:46 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:55:48 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:55:48 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:55:48 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:55:49 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:55:50 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:55:50 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:55:55 WARN  no build target for: /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java
+2026.01.24 20:55:55 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:56:25 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:58:05 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:58:05 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:58:07 WARN  no build target for: /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java
+2026.01.24 20:58:07 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:58:36 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:58:37 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:58:43 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:58:43 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 20:58:45 WARN  no build target for: /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java
+2026.01.24 20:58:45 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/controller/JobController.java. Using fallback presentation compiler.
+2026.01.24 21:02:34 WARN  no build target for: /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java
+2026.01.24 21:02:34 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 21:02:43 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 21:02:44 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 21:02:44 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 21:02:44 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 21:02:45 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 21:02:55 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 21:02:55 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 21:02:56 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 21:02:57 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 21:02:56 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 21:02:57 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 21:02:58 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 21:03:26 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 21:03:26 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 21:03:26 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 21:03:27 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 21:03:26 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 21:03:27 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 21:03:42 WARN  no build target for: /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxPublisher.java
+2026.01.24 21:03:42 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxPublisher.java. Using fallback presentation compiler.
+2026.01.24 21:03:42 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxPublisher.java. Using fallback presentation compiler.
+2026.01.24 21:04:01 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxPublisher.java. Using fallback presentation compiler.
+2026.01.24 21:04:02 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxPublisher.java. Using fallback presentation compiler.
+2026.01.24 21:04:02 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxPublisher.java. Using fallback presentation compiler.
+2026.01.24 21:04:04 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxPublisher.java. Using fallback presentation compiler.
+2026.01.24 21:04:04 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxPublisher.java. Using fallback presentation compiler.
+2026.01.24 21:04:04 INFO  Created report: Optional[file:///Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxPublisher.java]
+2026.01.24 21:04:04 INFO  empty definition using pc, found symbol in pc: java/util/List# (full report at: "/Users/Lenovo/Desktop/event-driven-job-orchestrator/.metals/.reports/metals-full/2026-01-24/r_empty-definition_21-04-04-464.md")
+2026.01.24 21:04:04 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxPublisher.java. Using fallback presentation compiler.
+2026.01.24 21:04:05 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxPublisher.java. Using fallback presentation compiler.
+2026.01.24 21:04:17 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxPublisher.java. Using fallback presentation compiler.
+2026.01.24 21:04:17 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxPublisher.java. Using fallback presentation compiler.
+2026.01.24 21:04:17 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxPublisher.java. Using fallback presentation compiler.
+2026.01.24 21:04:29 WARN  no build target for: /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxPublisher.java
+2026.01.24 21:04:29 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxPublisher.java. Using fallback presentation compiler.
+2026.01.24 21:04:30 WARN  no build target for: /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java
+2026.01.24 21:04:30 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 21:04:32 WARN  no build target for: /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java
+2026.01.24 21:04:32 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 21:04:32 INFO  Created report: Optional[file:///Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java]
+2026.01.24 21:04:32 INFO  QDox parse error in file:///Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java (full report at: "/Users/Lenovo/Desktop/event-driven-job-orchestrator/.metals/.reports/metals-full/2026-01-24/r_qdox-error_21-04-32-059.md")
+2026.01.24 21:05:20 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 21:06:22 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 21:06:22 WARN  Running javac-semanticdb failed for file:///Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Output:
+
+2026.01.24 21:06:22 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 21:06:22 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 21:06:23 WARN  Running javac-semanticdb failed for file:///Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Output:
+
+2026.01.24 21:06:23 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 21:06:25 WARN  no build target for: /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java
+2026.01.24 21:06:25 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.
+2026.01.24 21:09:24 INFO  no build target found for /Users/Lenovo/Desktop/event-driven-job-orchestrator/job-api/src/main/java/com/shreyas/jobapi/outbox/OutboxRepo.java. Using fallback presentation compiler.

@@ -7,9 +7,10 @@ import com.shreyas.jobapi.dto.JobDto;
 import jakarta.validation.Valid;
 import org.springframework.web.bind.annotation.*;
 import com.shreyas.jobapi.dto.JobCreatedEvent;
-import com.shreyas.jobapi.kafka.JobEventPublisher;
 import java.util.UUID;
 import org.springframework.http.ResponseEntity;
+import com.shreyas.jobapi.outbox.OutboxService;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 
@@ -18,12 +19,33 @@ import java.util.List;
 public class JobController {
 
   private final JobRepo repo;
-  private final JobEventPublisher publisher;
+    private final OutboxService outbox;
 
-  public JobController(JobRepo repo, JobEventPublisher publisher) {
+    public JobController(JobRepo repo, OutboxService outbox) {
     this.repo = repo;
-    this.publisher = publisher;
-  }
+    this.outbox = outbox;
+    }
+
+    @PostMapping
+    @Transactional
+    public JobDto createJob(@RequestBody @Valid CreateJobRequest req) {
+    JobEntity job = new JobEntity();
+    job.type = req.type();
+    job.status = req.status();
+
+    JobEntity saved = repo.save(job);
+
+    // event stored in DB, not sent yet
+    outbox.enqueue(
+        "Job",
+        saved.id,
+        "JobCreated",
+        "jobs.created",
+        new com.shreyas.jobapi.dto.JobCreatedEvent(saved.id, saved.type, saved.status, saved.createdAt)
+    );
+
+    return toDto(saved);
+    }
 
   @PostMapping("/demo")
   public JobDto createDemoJob() {
@@ -33,20 +55,6 @@ public class JobController {
     return toDto(repo.save(job));
   }
 
-  @PostMapping
-  public JobDto createJob(@RequestBody @Valid CreateJobRequest req) {
-    JobEntity job = new JobEntity();
-    job.type = req.type();
-    job.status = req.status();
-
-    JobEntity saved = repo.save(job);
-
-    publisher.publishJobCreated(
-        new JobCreatedEvent(saved.id, saved.type, saved.status, saved.createdAt)
-    );
-
-    return toDto(saved);
-  }
   @GetMapping
   public List<JobDto> listJobs() {
     return repo.findAll().stream().map(this::toDto).toList();
