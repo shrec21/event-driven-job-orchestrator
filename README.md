@@ -1,7 +1,7 @@
 # Event-Driven Job Orchestration Platform
 
 
-A production-style, event-driven backend system for asynchronously processing jobs with reliability guarantees.  
+A production-style, event-driven backend system for asynchronously processing jobs with reliability.  
 Built using **Spring Boot**, **Apache Kafka**, and **PostgreSQL**, this project demonstrates real-world patterns such as retries, idempotency, and the **Transactional Outbox**.
 
 
@@ -158,6 +158,8 @@ Each transition is persisted to the database to survive restarts and crashes.
 ### Start infrastructure
 ```bash
 docker compose up -d
+```
+
 Run services
 # Job API
 cd job-api
@@ -167,7 +169,7 @@ cd job-api
 # Job Worker (separate terminal)
 cd job-worker
 ./mvnw spring-boot:run
-```
+
 
 📬 Example API Usage
 
