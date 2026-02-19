@@ -20,4 +20,13 @@ class CreateJobRequestTest {
         assertTrue(violations.stream()
                 .anyMatch(v -> v.getPropertyPath().toString().equals("type")));
     }
+
+    @Test
+    void shouldPassValidationWhenAllFieldsAreValid() {
+        var request = new CreateJobRequest("EMAIL_NOTIFICATION", "PENDING");
+
+        var violations = validator.validate(request);
+
+        assertTrue(violations.isEmpty());
+    }
 }
